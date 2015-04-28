@@ -26,5 +26,6 @@
     "gulp-util": "~2.2.19",
     "gulp-bump": "~0.1.10",
     "gulp-shell": "~0.2.7"
-  }
+  },
+  "private": true
 }

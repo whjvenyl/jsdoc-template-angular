@@ -1,0 +1,16 @@
+.hero-unit {
+  padding: 30px;
+}
+
+.breadcrumb {
+  margin: 0;
+}
+
+table p {
+  padding: 0;
+  margin: 0;
+}
+
+.params.table {
+  font-size: 14px;
+}
